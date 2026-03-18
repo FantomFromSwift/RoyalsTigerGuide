@@ -1,0 +1,107 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the largest living subspecies of tiger?",
+    "options": ["Bengal Tiger", "Siberian Tiger", "Sumatran Tiger", "Indochinese Tiger"],
+    "correctIndex": 1,
+    "explanation": "The Siberian (Amur) tiger is the largest living cat, with males reaching up to 300 kilograms and body lengths exceeding 3 meters."
+  },
+  {
+    "id": "q_2",
+    "question": "How far can a tiger's roar travel through dense forest?",
+    "options": ["500 meters", "1 kilometer", "3 kilometers", "5 kilometers"],
+    "correctIndex": 2,
+    "explanation": "A tiger's roar can travel up to 3 kilometers through dense forest thanks to specialized larynx anatomy that produces infrasonic frequencies."
+  },
+  {
+    "id": "q_3",
+    "question": "What percentage of hunting attempts by tigers are typically successful?",
+    "options": ["About 50%", "About 30%", "About 10%", "About 5%"],
+    "correctIndex": 2,
+    "explanation": "Tigers succeed in only about one out of every ten hunting attempts, making them highly strategic about when and where they hunt."
+  },
+  {
+    "id": "q_4",
+    "question": "Which tiger subspecies has partially webbed toes?",
+    "options": ["Bengal Tiger", "Sumatran Tiger", "Malayan Tiger", "South China Tiger"],
+    "correctIndex": 1,
+    "explanation": "Sumatran tigers have partially webbed toes that make them exceptional swimmers in their swampy rainforest habitat."
+  },
+  {
+    "id": "q_5",
+    "question": "How much meat can a tiger consume in a single sitting?",
+    "options": ["10 kilograms", "20 kilograms", "40 kilograms", "60 kilograms"],
+    "correctIndex": 2,
+    "explanation": "After a successful kill, a tiger may consume up to 40 kilograms of meat in a single sitting, then rest for several days."
+  },
+  {
+    "id": "q_6",
+    "question": "What is the primary hunting strategy of tigers?",
+    "options": ["Pack pursuit", "Ambush and stealth", "Exhaustion chase", "Aerial attack"],
+    "correctIndex": 1,
+    "explanation": "Tigers are ambush predators that rely on stealth and surprise, positioning themselves close to prey before a devastating burst of speed."
+  },
+  {
+    "id": "q_7",
+    "question": "How many tiger subspecies have gone extinct in modern times?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctIndex": 2,
+    "explanation": "Three subspecies — the Bali, Javan, and Caspian tigers — were driven to extinction during the twentieth century."
+  },
+  {
+    "id": "q_8",
+    "question": "What is the purpose of a tiger's striped pattern?",
+    "options": ["Temperature regulation", "Camouflage", "Attracting mates", "Warning predators"],
+    "correctIndex": 1,
+    "explanation": "Tiger stripes serve as camouflage, breaking up their outline among tall grasses and dappled sunlight to help them remain invisible to prey."
+  },
+  {
+    "id": "q_9",
+    "question": "What is a chuffing sound in tiger communication?",
+    "options": ["A warning growl", "A friendly greeting", "A hunting call", "A distress signal"],
+    "correctIndex": 1,
+    "explanation": "Chuffing is a friendly puffing sound used between mothers and cubs or between potential mates to express non-aggressive intentions."
+  },
+  {
+    "id": "q_10",
+    "question": "What is the term for a tiger's ecological role as a top predator?",
+    "options": ["Keystone species", "Pioneer species", "Indicator species", "Invasive species"],
+    "correctIndex": 0,
+    "explanation": "Tigers are keystone species whose presence regulates herbivore populations and maintains ecosystem balance through trophic cascades."
+  },
+  {
+    "id": "q_11",
+    "question": "How large can a male Bengal tiger's territory be?",
+    "options": ["10 sq km", "50 sq km", "100 sq km", "500 sq km"],
+    "correctIndex": 2,
+    "explanation": "A male Bengal tiger's territory can span over 100 square kilometers, which they patrol constantly to maintain boundaries."
+  },
+  {
+    "id": "q_12",
+    "question": "Which country has the largest wild tiger population?",
+    "options": ["Russia", "Indonesia", "India", "Thailand"],
+    "correctIndex": 2,
+    "explanation": "India has the largest wild tiger population with over 3,600 individuals, representing about 70% of the global wild tiger population."
+  },
+  {
+    "id": "q_13",
+    "question": "What maximum speed can a tiger reach during a charge?",
+    "options": ["40 km/h", "55 km/h", "65 km/h", "80 km/h"],
+    "correctIndex": 2,
+    "explanation": "Tigers can reach speeds of up to 65 kilometers per hour in short bursts when launching an ambush attack on prey."
+  },
+  {
+    "id": "q_14",
+    "question": "Which tiger subspecies is considered functionally extinct in the wild?",
+    "options": ["Malayan Tiger", "Indochinese Tiger", "South China Tiger", "Sumatran Tiger"],
+    "correctIndex": 2,
+    "explanation": "The South China tiger is considered functionally extinct in the wild, with no confirmed sighting in over 25 years."
+  },
+  {
+    "id": "q_15",
+    "question": "What percentage of their historical range have tigers lost?",
+    "options": ["50%", "73%", "85%", "93%"],
+    "correctIndex": 3,
+    "explanation": "Tigers have lost approximately 93 percent of their historical range due to habitat conversion to agriculture and development."
+  }
+]

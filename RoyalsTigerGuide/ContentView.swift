@@ -1,61 +1,36 @@
-//
-//  ContentView.swift
-//  RoyalsTigerGuide
-//
-//  Created by Иван Непорадный on 18.03.2026.
-//
-
 import SwiftUI
-import SwiftData
 
 struct ContentView: View {
-    @Environment(\.modelContext) private var modelContext
-    @Query private var items: [Item]
+    @AppStorage("hasSeenOnboardingRTG") private var hasSeenOnboarding = false
+    @State private var showSplash = true
+    @State private var showOnboarding = false
 
     var body: some View {
-        NavigationSplitView {
-            List {
-                ForEach(items) { item in
-                    NavigationLink {
-                        Text("Item at \(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))")
-                    } label: {
-                        Text(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))
+        ZStack {
+            if showSplash {
+                SplashViewRTG {
+                    withAnimation(.easeInOut(duration: 0.5)) {
+                        showSplash = false
+                        if !hasSeenOnboarding {
+                            showOnboarding = true
+                        }
                     }
                 }
-                .onDelete(perform: deleteItems)
-            }
-            .toolbar {
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    EditButton()
-                }
-                ToolbarItem {
-                    Button(action: addItem) {
-                        Label("Add Item", systemImage: "plus")
+                .transition(.opacity)
+            } else if showOnboarding {
+                OnboardingViewRTG {
+                    withAnimation(.easeInOut(duration: 0.5)) {
+                        hasSeenOnboarding = true
+                        showOnboarding = false
                     }
                 }
-            }
-        } detail: {
-            Text("Select an item")
-        }
-    }
-
-    private func addItem() {
-        withAnimation {
-            let newItem = Item(timestamp: Date())
-            modelContext.insert(newItem)
-        }
-    }
-
-    private func deleteItems(offsets: IndexSet) {
-        withAnimation {
-            for index in offsets {
-                modelContext.delete(items[index])
+                .transition(.opacity)
+            } else {
+                MainTabViewRTG()
+                    .transition(.opacity)
             }
         }
+        .animation(.easeInOut(duration: 0.4), value: showSplash)
+        .animation(.easeInOut(duration: 0.4), value: showOnboarding)
     }
-}
-
-#Preview {
-    ContentView()
-        .modelContainer(for: Item.self, inMemory: true)
 }

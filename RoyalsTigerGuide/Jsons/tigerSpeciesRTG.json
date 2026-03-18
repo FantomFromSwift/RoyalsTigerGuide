@@ -1,0 +1,74 @@
+[
+  {
+    "id": "species_1",
+    "name": "Bengal Tiger",
+    "scientificName": "Panthera tigris tigris",
+    "habitat": "Tropical and subtropical forests, mangroves, grasslands",
+    "region": "India, Bangladesh, Nepal, Bhutan",
+    "population": "2500-3200",
+    "status": "Endangered",
+    "description": "The Bengal tiger is the most numerous and widespread of all tiger subspecies, representing approximately 70 percent of the global wild tiger population. Males typically weigh between 180 and 260 kilograms, with exceptionally large individuals exceeding 270 kilograms. Their coat displays the classic deep orange coloration with bold black stripes and a white underbelly. Bengal tigers inhabit a remarkable range of environments from the steaming mangrove swamps of the Sundarbans to the cool deciduous forests of central India and the grasslands of Nepal. They are powerful swimmers and have been documented crossing rivers several kilometers wide.",
+    "imageName": "themeOne",
+    "traits": { "strength": 88, "speed": 82, "stealth": 78, "swimming": 85, "endurance": 80 }
+  },
+  {
+    "id": "species_2",
+    "name": "Siberian Tiger",
+    "scientificName": "Panthera tigris altaica",
+    "habitat": "Boreal forests, birch woodlands, mountain terrain",
+    "region": "Russian Far East, northeastern China",
+    "population": "500-600",
+    "status": "Endangered",
+    "description": "The Siberian tiger, also known as the Amur tiger, is the largest living cat on Earth. Adult males can reach body lengths of over 3 meters and weigh up to 300 kilograms, possessing enormous physical power that allows them to bring down elk, wild boar, and even young brown bears. Their coat is paler and thicker than other subspecies, with widely spaced brown rather than jet-black stripes, providing effective camouflage in the snow-covered birch and conifer forests they call home. They have adapted to survive winter temperatures that plummet below minus 40 degrees by developing a dense layer of subcutaneous fat and a luxuriant winter pelage.",
+    "imageName": "themeTwo",
+    "traits": { "strength": 95, "speed": 78, "stealth": 72, "swimming": 70, "endurance": 90 }
+  },
+  {
+    "id": "species_3",
+    "name": "Sumatran Tiger",
+    "scientificName": "Panthera tigris sumatrae",
+    "habitat": "Tropical rainforests, peat swamps, montane forests",
+    "region": "Sumatra, Indonesia",
+    "population": "400-500",
+    "status": "Critically Endangered",
+    "description": "The Sumatran tiger is the smallest surviving subspecies and the only tiger remaining on the Indonesian archipelago. Males weigh between 100 and 140 kilograms, significantly less than their continental relatives, but they compensate with exceptional agility and swimming ability. Their coat is the darkest of all subspecies, with closely spaced thick black stripes that provide superior camouflage in the dense tropical rainforests of Sumatra. Notably, Sumatran tigers possess partially webbed toes that make them outstanding swimmers, allowing them to navigate the flooded forests and swampy lowlands that characterize much of their habitat.",
+    "imageName": "themeThree",
+    "traits": { "strength": 72, "speed": 80, "stealth": 90, "swimming": 95, "endurance": 75 }
+  },
+  {
+    "id": "species_4",
+    "name": "Indochinese Tiger",
+    "scientificName": "Panthera tigris corbetti",
+    "habitat": "Mountainous forests, tropical dry forests",
+    "region": "Myanmar, Thailand, Laos, Vietnam, Cambodia",
+    "population": "250-350",
+    "status": "Endangered",
+    "description": "The Indochinese tiger inhabits the remote mountainous forests of mainland Southeast Asia, where dense vegetation and rugged terrain have historically provided natural protection from human encroachment. Smaller than Bengal tigers, males typically weigh between 150 and 195 kilograms. Their stripes tend to be narrower and more closely spaced than Bengal tigers, with a slightly darker overall coloration that blends effectively with the shadowy understory of tropical dry forests. Indochinese tigers are among the most secretive of all subspecies, and scientific knowledge of their ecology remains limited due to the inaccessibility of their habitat and ongoing political instability across much of their range.",
+    "imageName": "themeFour",
+    "traits": { "strength": 80, "speed": 83, "stealth": 88, "swimming": 72, "endurance": 82 }
+  },
+  {
+    "id": "species_5",
+    "name": "Malayan Tiger",
+    "scientificName": "Panthera tigris jacksoni",
+    "habitat": "Tropical broadleaf forests, lowland dipterocarp forests",
+    "region": "Malay Peninsula",
+    "population": "80-120",
+    "status": "Critically Endangered",
+    "description": "The Malayan tiger was only recognized as a distinct subspecies in 2004 through genetic analysis that separated it from the Indochinese tiger. Found exclusively on the Malay Peninsula in southern Thailand and Peninsular Malaysia, this subspecies faces severe population decline with fewer than 150 individuals estimated to remain in the wild. Males weigh between 100 and 130 kilograms, making them one of the smaller subspecies. Despite their diminished numbers, Malayan tigers hold immense cultural significance as the national animal of Malaysia, appearing on the country's coat of arms and serving as a powerful symbol of natural heritage and conservation urgency.",
+    "imageName": "themeFive",
+    "traits": { "strength": 75, "speed": 84, "stealth": 86, "swimming": 78, "endurance": 76 }
+  },
+  {
+    "id": "species_6",
+    "name": "South China Tiger",
+    "scientificName": "Panthera tigris amoyensis",
+    "habitat": "Temperate forests, montane regions",
+    "region": "Southern China (historically)",
+    "population": "0 (wild), ~200 (captive)",
+    "status": "Critically Endangered (Functionally Extinct in Wild)",
+    "description": "The South China tiger represents the most ancient lineage of all tiger subspecies and is believed to be the evolutionary ancestor from which all other subspecies diverged. Tragically, it is now considered functionally extinct in the wild, with no confirmed sighting in over 25 years. Males historically weighed between 130 and 175 kilograms, with a distinctive skull shape that differs from other subspecies. Their stripes are spaced further apart than Bengal tigers and the background coat color tends toward a more yellowish tone. Approximately 200 individuals survive in Chinese zoos and breeding facilities, though the genetic diversity of this captive population is severely limited by the small number of founder animals.",
+    "imageName": "themeSix",
+    "traits": { "strength": 78, "speed": 80, "stealth": 82, "swimming": 68, "endurance": 78 }
+  }
+]

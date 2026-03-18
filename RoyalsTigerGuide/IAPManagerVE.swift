@@ -21,8 +21,8 @@ final class IAPManagerVE: NSObject {
     private(set) var purchasedProductIds: Set<String> = []
 
     private let productIds: Set<String> = [
-        "com.ringospinner.theme.neon",
-        "com.ringospinner.theme.sunrise"
+        "royalsTigerThemeOne",
+        "royalsTigerThemeTwo"
     ]
 
     private override init() {
@@ -64,6 +64,8 @@ final class IAPManagerVE: NSObject {
         purchasedProductIds.contains(productId)
     }
 
+    
+
     func fetchProducts() {
 
         guard !isLoading else {
@@ -82,6 +84,8 @@ final class IAPManagerVE: NSObject {
     }
 
     func purchase(_ product: SKProduct) {
+        print("🛒 purchase() called for:", product.productIdentifier)
+
         guard SKPaymentQueue.canMakePayments() else {
             errorMessage = "Purchases are disabled on this device"
             lastPurchaseError = nil

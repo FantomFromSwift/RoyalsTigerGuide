@@ -1,0 +1,314 @@
+[
+  {
+    "id": "task_1",
+    "title": "Track a Bengal Tiger",
+    "subtitle": "Learn the fundamentals of tracking wild tigers through dense forests",
+    "imageName": "themeOne",
+    "iconName": "iconOne",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Identify the Terrain",
+        "description": "Before beginning your tracking expedition, carefully study the terrain surrounding you. Bengal tigers prefer areas with dense vegetation cover near water sources. Look for natural corridors formed by riverbanks, ridgelines, and forest edges where tigers commonly travel. Note the soil type as soft mud and sandy riverbeds are ideal for preserving paw prints. Mark potential observation points on higher ground that provide clear sightlines without exposing your position."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Locate Fresh Paw Prints",
+        "description": "Tiger paw prints are unmistakable once you know what to look for. A male Bengal tiger leaves tracks measuring approximately 12 to 16 centimeters across, while female prints are slightly smaller at 10 to 14 centimeters. Fresh prints will have sharp, well-defined edges and may show individual toe pad details. Check along river banks, muddy trails, and dusty roads at dawn when overnight tracks are most visible. Note the direction of travel and spacing between prints to determine whether the tiger was walking, trotting, or running."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Read Territorial Markers",
+        "description": "Tigers leave a rich tapestry of territorial markers throughout their range. Look for scratch marks on trees at heights of 1.5 to 2.5 meters, which indicate the tiger's approximate body size and reach. Scent-sprayed vegetation has a distinctive pungent odor that can persist for several weeks. Scrape marks on the ground where a tiger has used its hind feet to scatter soil and leaves are another common territorial signal. These markers are most concentrated along territory boundaries and at trail intersections."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Analyze Prey Activity",
+        "description": "Understanding prey behavior is essential to predicting tiger movements. Monitor herds of spotted deer, sambar, and wild boar for signs of alarm behavior such as repeated alarm calls, nervous tail flicking, and coordinated group movement away from a particular area. A sudden silence in bird calls or the alarm bark of a langur monkey from the forest canopy often signals a tiger's presence nearby. Note areas where prey animals refuse to feed or drink despite abundant resources as these locations may be active tiger hunting grounds."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Set Up Observation Points",
+        "description": "Choose several strategic observation points along the predicted travel route. Position yourself at least 50 meters from any active trail and at an elevation if possible. Natural hides such as rocky outcrops, fallen trees, or dense bamboo thickets provide concealment while allowing clear observation. Set up before dawn or in the late afternoon when tigers are most active. Remain completely still and minimize any scent by avoiding perfumes, repellents, or strong-smelling foods. Wind direction is critical and you must always position yourself downwind of the expected approach path."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Document Your Findings",
+        "description": "Systematic documentation transforms a tracking exercise into valuable scientific data. Record every observation with precise GPS coordinates, timestamps, weather conditions, and photographs where possible. Note the size and freshness of tracks, the location and condition of territorial markers, and any direct or indirect tiger sightings. Create a detailed map of the tracking route showing all significant findings. Compare your observations with historical data for the area to identify patterns in territory use and movement corridors. Submit your findings to the local wildlife authority or tiger monitoring program to contribute to ongoing conservation research."
+      }
+    ]
+  },
+  {
+    "id": "task_2",
+    "title": "Photograph a Wild Tiger",
+    "subtitle": "Master the art of wildlife photography in tiger habitats",
+    "imageName": "themeTwo",
+    "iconName": "iconTwo",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Select Your Equipment",
+        "description": "Photographing wild tigers requires specialized equipment that balances optical reach with portability and reliability in harsh field conditions. A telephoto lens with a focal length of at least 400mm is essential for maintaining a safe distance while capturing detailed images. A sturdy tripod or monopod helps stabilize long exposures in the dim light conditions of dense forests. Pack weather-sealed camera bodies and lenses rated for dust and moisture resistance, as tropical forests can be extremely humid. Extra batteries are critical as cold temperatures in Siberian habitats can drain power rapidly."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Scout Prime Locations",
+        "description": "Successful tiger photography depends heavily on advance scouting and location knowledge. Identify water holes, river crossings, and shaded resting spots where tigers regularly appear during specific times of day. Talk to local rangers and experienced naturalists who can share insights about individual tigers and their preferred routes. Look for photographic backgrounds that will complement the tiger's striking appearance, such as green meadows, reflective water surfaces, or dramatic rocky outcrops. Visit your chosen locations at different times to understand how light quality changes throughout the day."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Master Light Conditions",
+        "description": "The quality of light can make the difference between an ordinary snapshot and a truly magnificent tiger portrait. The golden hours immediately after sunrise and before sunset provide warm, directional light that brings out the rich amber tones of a tiger's coat and creates dramatic shadows that emphasize muscular definition. Overcast conditions produce soft, even light that is excellent for capturing fine details such as whisker patterns and eye color without harsh shadows. Avoid the harsh midday sun which creates unflattering contrast and causes tigers to seek deep shade where photography becomes extremely challenging."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Practice Stealth Techniques",
+        "description": "Approaching close enough for compelling photographs without disturbing the tiger requires exceptional field craft. Move slowly and deliberately, placing each foot carefully to avoid snapping twigs or rustling dry leaves. Wear clothing in muted earth tones that blends with the surrounding vegetation. Minimize equipment noise by taping any loose straps or buckles and pre-setting your camera controls. Use natural cover to break up your silhouette and never stand fully upright on exposed ground. If a tiger becomes aware of your presence, freeze immediately and avoid direct eye contact which tigers may interpret as a challenge."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Capture Behavioral Moments",
+        "description": "The most compelling tiger photographs go beyond simple portraits to capture moments of natural behavior that tell a story. Be patient and prepared for sudden action such as a tiger launching into a hunt, playing with cubs, or engaging in a territorial display. Pre-focus on likely activity zones and use continuous autofocus mode to track movement. Burst shooting at high frame rates increases your chances of capturing the peak moment of action. Look for intimate behaviors such as grooming, yawning, or stretching that reveal the tiger's personality. Reflections in water add a powerful compositional element when tigers visit pools and streams."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Process and Share Responsibly",
+        "description": "Processing your tiger photographs requires a careful balance between artistic enhancement and documentary integrity. Adjust exposure, contrast, and white balance to accurately represent the scene as you witnessed it, but avoid manipulations that misrepresent the tiger's behavior or environment. Geo-tag removal is essential before sharing images publicly to prevent revealing sensitive tiger locations to potential poachers. Share your work through conservation organizations, scientific journals, or curated exhibitions that promote tiger protection awareness. Always credit local guides and rangers who contributed to the photographic opportunity and consider donating prints or licensing fees to support their conservation work."
+      }
+    ]
+  },
+  {
+    "id": "task_3",
+    "title": "Set Up a Camera Trap",
+    "subtitle": "Deploy motion-activated cameras for wildlife monitoring",
+    "imageName": "themeThree",
+    "iconName": "iconThree",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Choose Camera Trap Models",
+        "description": "Selecting the right camera trap equipment is foundational to a successful wildlife monitoring project. Modern camera traps use passive infrared sensors to detect the body heat of passing animals, triggering high-resolution photographs or video recordings.     For tiger monitoring, choose models with fast trigger speeds under 0.3 seconds to capture swift-moving animals without blur. Night capability using invisible infrared flash prevents startling the tiger and produces images that preserve natural behavior. Weather-resistant housings rated IP66 or higher protect electronics from monsoon rains, extreme humidity, and temperature fluctuations."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Survey Installation Sites",
+        "description": "Camera trap placement requires careful consideration of tiger movement patterns and terrain features. Survey potential installation sites along game trails, forest roads, ridgelines, and water sources where tiger activity has been previously recorded. Each site should offer a clear detection zone free from dense\n vegetation that might trigger false activations from wind-blown branches. Measure the trail width and available mounting surfaces such as trees with trunk diameters of 15 centimeters or more at the desired mounting height. Plan paired camera stations on opposite sides of trails to capture both flanks of passing tigers, enabling individual identification through stripe pattern matching."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Configure Camera Settings",
+        "description": "Proper camera configuration ensures consistent, high-quality data collection across all environmental conditions. Set the image resolution to maximum for stripe pattern identification and configure multi-shot burst mode to capture three consecutive frames per trigger event. Adjust the sensor sensitivity to medium to minimize false triggers from small animals or vegetation while reliably detecting tiger-sized subjects. Set the quiet period between trigger events to 5 seconds to prevent storage cards from filling with redundant images of the same individual. Enable date, time, temperature, and moon phase stamps on each image for scientific analysis."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Install and Secure Cameras",
+        "description": "Mounting cameras at the correct height and angle is critical for capturing identifiable images. Install cameras at 45 to 60 centimeters above ground level, approximately knee height for an adult tiger, angling slightly downward to capture the full flank including the distinctive stripe patterns used for individual identification. Secure cameras to trees using heavy-duty adjustable straps with steel cable locks to deter theft. Clear vegetation in the detection zone for approximately 3 to 5 meters in front of the camera to ensure an unobstructed view. Test each camera after installation by walking through the detection zone at various angles and reviewing the captured test images on site."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Establish Monitoring Schedule",
+        "description": "A systematic monitoring schedule ensures continuous data collection while minimizing disturbance to wildlife. Plan camera maintenance visits at regular intervals of 14 to 21 days depending on battery life and storage capacity. During each visit, swap memory cards and batteries, check camera alignment, clear any vegetation that may have grown into the detection zone, and review a sample of captured images to verify proper operation. Record the exact condition of each camera station including battery voltage, card capacity used, and any signs of animal interference or weather damage. Coordinate visit timing to avoid peak tiger activity periods, typically conducting maintenance during midday when tigers are least active."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Analyze Captured Data",
+        "description": "Converting raw camera trap data into meaningful wildlife monitoring information requires systematic analysis protocols. Download all images to a secure storage system and categorize them by species, location, date, and time of day. Use pattern-matching software to compare tiger flank photographs against an existing database of identified individuals, assigning unique identification codes to newly photographed tigers. Calculate capture rates, activity patterns, and detection probabilities for each camera station. Generate occupancy models that estimate the probability of tiger presence across the monitored landscape. Compile monthly reports summarizing population estimates, spatial distribution, and temporal activity patterns to guide conservation management decisions."
+      }
+    ]
+  },
+  {
+    "id": "task_4",
+    "title": "Analyze Tiger Paw Prints",
+    "subtitle": "Scientific methods for pugmark analysis and individual identification",
+    "imageName": "themeFour",
+    "iconName": "iconFour",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Prepare Collection Materials",
+        "description": "Professional pugmark analysis requires a standardized kit of collection and measurement tools. Assemble a field kit containing plaster of Paris for casting prints, a flexible measuring tape graduated in millimeters, digital calipers for precise measurements, a spray fixative to stabilize fragile prints in sandy soil, and a high-resolution digital camera with a macro lens. Include a rigid frame or template card with a centimeter-scale ruler for photographic reference. Carry distilled water in a squeeze bottle for mixing plaster and a selection of soft brushes for gently removing debris from prints without disturbing fine details."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Locate Quality Impressions",
+        "description": "Not all pugmarks are suitable for scientific analysis, and identifying high-quality impressions is a critical skill. Focus your search on substrates that record fine details, including firm mud along riverbanks, fine-grained sand on dry riverbeds, and dusty roads or fire breaks. The ideal print shows clear impressions of all four toe pads, the large metacarpal pad, and the leading edge contours without distortion from sliding or overlapping. Early morning surveys produce the best results as overnight dew firms up soft soil surfaces and fresh overnight tracks have not yet been degraded by wind, heat, or subsequent animal traffic."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Photograph and Measure",
+        "description": "Accurate photographic documentation is essential for both immediate analysis and long-term database records. Position your camera directly above the print on a tripod to eliminate perspective distortion and place the reference scale card adjacent to the print at the same level. Take photographs at multiple exposures to capture detail in both deep pad impressions and subtle surface textures. Record a complete set of measurements including total pad width, total pad length, individual toe pad dimensions, inter-toe distances, and the angle of the leading toe relative to the central axis. Each measurement should be recorded to the nearest 0.5 millimeter."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Create Plaster Casts",
+        "description": "Plaster casting preserves a three-dimensional record of the pugmark that can be studied and compared long after the original print has weathered away. Begin by removing any loose debris from the print using gentle air puffs rather than brushing which can damage fine details. Spray the print with fixative if the soil is very dry or crumbly. Mix plaster of Paris to a consistency slightly thicker than pancake batter and pour it slowly into the print starting from one edge to avoid trapping air bubbles. Allow at least 30 minutes for the cast to harden completely before carefully lifting it from the substrate. Label each cast immediately with location coordinates, date, time, and a unique specimen number."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Perform Comparative Analysis",
+        "description": "Comparing pugmarks across individuals requires systematic measurement protocols and statistical analysis. Enter all measurement data into a standardized database organized by location, date, and specimen number. Calculate key ratios including the pad width to length ratio, the asymmetry index comparing left and right sides of the metacarpal pad, and the toe splay angle which varies consistently between individuals. Compare new specimens against the existing database using discriminant function analysis to determine whether they match a known individual or represent a new tiger. Pay special attention to unique features such as missing toe pads, scars, or unusual pad shapes that serve as reliable identifying characteristics."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Compile Analysis Report",
+        "description": "A comprehensive pugmark analysis report synthesizes all field observations and measurements into actionable intelligence for wildlife management. Include high-resolution photographs and annotated diagrams of each analyzed print alongside the full measurement dataset. Present individual identification results with confidence scores based on the number and quality of matching characteristics. Map all pugmark collection locations to visualize spatial movement patterns and territory boundaries. Calculate minimum population estimates based on the number of distinct individuals identified during the survey period. Include recommendations for future monitoring priorities based on identified gaps in spatial coverage or temporal sampling and submit the completed report to the relevant wildlife conservation authority."
+      }
+    ]
+  },
+  {
+    "id": "task_5",
+    "title": "Map a Tiger Territory",
+    "subtitle": "Create detailed territory maps using field observation data",
+    "imageName": "themeFive",
+    "iconName": "iconFive",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Define the Survey Area",
+        "description": "Establishing clear survey boundaries is the first step in systematic territory mapping. Use topographic maps and satellite imagery to identify the landscape features that typically define tiger territory boundaries such as major rivers, ridge lines, highways, and habitat edges. Set your survey area to encompass at least twice the expected territory size of a single tiger to capture boundary zones and potential overlap with neighboring individuals. Divide the survey area into a grid of manageable cells, typically one square kilometer each, that will serve as the basic unit for recording observations. Mark grid boundaries on your field maps and GPS units."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Record Spatial Evidence",
+        "description": "Systematically walk each grid cell recording all evidence of tiger presence with precise GPS coordinates. Document paw prints, scrape marks, scat deposits, scent-spray sites, scratch marks on trees, hair samples on bark, and any direct sightings or vocalizations heard. Record the estimated freshness of each piece of evidence using standardized aging criteria such as print edge sharpness, scat moisture content, and scent intensity. Note the habitat type, vegetation density, elevation, slope, aspect, and proximity to water for each observation point. This environmental context will help explain why tigers use certain areas more intensively than others."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Install Tracking Technology",
+        "description": "Supplement field observations with technology-based tracking data for comprehensive territory delineation. Deploy GPS-enabled camera traps at strategic locations throughout the survey grid to record tiger movements over extended periods. If available, collaborate with wildlife authorities to access telemetry data from GPS-collared tigers in the study area. Consider deploying acoustic monitoring devices that record tiger vocalizations, providing additional presence data in areas that are difficult to survey on foot. All technological monitoring equipment must be calibrated and tested before deployment and checked regularly to ensure continuous data collection throughout the survey period."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Analyze Movement Patterns",
+        "description": "Compile all spatial data points into a geographic information system to visualize and analyze tiger movement patterns. Plot each observation on a digital map layer coded by evidence type, freshness, and date collected. Use kernel density estimation to identify core use areas where tiger activity is most concentrated, typically around water sources, resting sites, and preferred hunting grounds. Calculate the minimum convex polygon and kernel density home range estimates to quantify territory size. Identify movement corridors connecting core areas and note any temporal patterns such as seasonal shifts in territory use or daily activity centers that rotate between different parts of the range."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Identify Territory Boundaries",
+        "description": "Tiger territory boundaries are rarely sharp lines but rather zones of decreasing activity intensity that may overlap with neighboring territories. Analyze the spatial distribution of territorial markers such as scent sprays and scratch marks to identify boundary zones where marking intensity increases as tigers actively advertise their presence to neighbors. Compare observation patterns between identified individuals using stripe pattern or pugmark identification to determine which tiger uses which areas. Map zones of exclusive use, shared use, and avoidance to build a complete picture of the territorial landscape. Note any buffer zones or neutral corridors where multiple tigers have been detected at different times."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Produce the Territory Map",
+        "description": "Create a professional territory map that clearly communicates the spatial organization of tigers within the study area. Design map layers showing core use areas with intensity gradients, territory boundaries with confidence buffers, movement corridors, key resource locations such as water sources and denning sites, and areas of inter-territorial overlap. Include temporal analysis showing how territory use varies by season and time of day. Overlay habitat classification data to identify landscape features associated with territory selection. Add a comprehensive legend, scale bar, north arrow, and coordinate reference system. Produce the map in both digital and print formats for distribution to conservation managers, wildlife authorities, and research collaborators."
+      }
+    ]
+  },
+  {
+    "id": "task_6",
+    "title": "Conduct a Night Survey",
+    "subtitle": "Survey tiger activity during nocturnal hours using specialized techniques",
+    "imageName": "themeSix",
+    "iconName": "iconSix",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Plan the Survey Route",
+        "description": "Night surveys require meticulous advance planning to ensure both scientific rigor and team safety. Design survey routes that cover representative habitats within the study area, including forest roads, fire breaks, river crossings, and meadow edges where tigers are most likely to be detected in spotlight conditions. Calculate total route length to allow completion within a single night of surveying, typically four to six hours of active observation. Plan start and end points with safe vehicle access and identify emergency extraction routes in case of equipment failure or medical incidents. Coordinate with local forest authorities to obtain necessary permissions and arrange for armed escort if required by park regulations."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Assemble Night Equipment",
+        "description": "Specialized equipment is essential for effective and safe nocturnal wildlife surveying. High-powered spotlights with adjustable beam width allow detection of animal eye shine at distances exceeding 200 meters while minimizing disturbance with red filter attachments. Thermal imaging cameras detect body heat signatures through vegetation, providing detection capability in conditions where spotlights are ineffective. Night vision binoculars with image intensification allow silent observation without any light source. GPS units with backlit displays enable accurate position recording without disrupting dark adaptation. Pack backup batteries, spare bulbs, emergency first aid supplies, communication radios, and reflective markers for route navigation."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Establish Detection Protocols",
+        "description": "Standardized detection protocols ensure that survey results are scientifically comparable across nights, seasons, and years. Define the search effort in terms of spotlight sweep pattern, vehicle speed of 10 to 15 kilometers per hour for vehicle-based surveys, and the angular range scanned by each observer. Assign specific roles to team members including a primary spotlight operator who scans systematically, a secondary spotter using peripheral vision for movement detection, a data recorder responsible for all observation documentation, and a vehicle driver who maintains constant speed and alerts the team to road hazards. Establish clear communication signals for detection events to minimize noise."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Conduct the Survey",
+        "description": "Begin the survey 30 minutes after sunset to allow full darkness to develop and nocturnal animal activity to commence. Maintain a steady pace along the predetermined route, sweeping the spotlight in slow arcs covering both sides of the route out to the maximum detection distance. When eye shine is detected, immediately note the bearing and distance, then carefully increase spotlight intensity to identify the species. For confirmed tiger detections, record GPS coordinates, time, number of individuals, behavior observed, estimated age and sex if determinable, and habitat type at the sighting location. Minimize observation duration to under two minutes per sighting to avoid behavioral disturbance. Continue the survey along the full route regardless of early detections to maintain consistent sampling effort."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Record Environmental Data",
+        "description": "Environmental variables significantly influence tiger detection probabilities and must be recorded alongside wildlife observations. Measure ambient temperature, relative humidity, wind speed and direction, cloud cover percentage, and moon phase at regular intervals throughout the survey. Note any precipitation events, fog, or haze conditions that affect visibility. Record background noise levels from natural sources such as insect chorus intensity and anthropogenic sources such as distant traffic or village activity. These environmental covariates are essential for statistical analysis that separates true variation in tiger activity from detection probability artifacts caused by changing survey conditions."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Analyze Survey Results",
+        "description": "Post-survey analysis transforms raw observation data into estimates of tiger abundance, activity patterns, and habitat use that inform conservation management. Enter all detection and non-detection data into a standardized database with associated environmental covariates. Calculate encounter rates as the number of tiger detections per kilometer of survey effort and compare across routes, seasons, and years. Use occupancy modeling frameworks that account for imperfect detection to estimate the true probability of tiger presence across the surveyed landscape. Analyze temporal detection patterns to identify peak activity periods and correlate detections with environmental variables to understand the conditions that promote nocturnal tiger activity. Compile results into a formal survey report with statistical summaries, spatial maps, and management recommendations."
+      }
+    ]
+  },
+  {
+    "id": "task_7",
+    "title": "Document Tiger Prey",
+    "subtitle": "Study and catalog the prey species that sustain tiger populations",
+    "imageName": "themeSeven",
+    "iconName": "iconSeven",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Identify Local Prey Species",
+        "description": "Understanding the prey base is fundamental to assessing tiger habitat quality and population carrying capacity. Research the known prey species assemblage for your study area using published literature, park management reports, and discussions with local wildlife experts. In South Asian tiger habitats, primary prey typically includes spotted deer, sambar, wild boar, nilgai, gaur, and barking deer. Create a comprehensive field identification guide covering each prey species with distinguishing physical characteristics, typical habitat preferences, group size patterns, and activity cycles. Include secondary prey species such as porcupines, langurs, and peafowl that supplement the tiger's diet in certain habitats."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Conduct Prey Density Surveys",
+        "description": "Systematic prey density estimation provides quantitative data essential for modeling tiger population viability. Establish line transects of standardized length through representative habitat types within the study area. Walk each transect at a steady pace during the early morning activity period, recording every prey animal detected with species identification, group size, perpendicular distance from the transect line, and habitat type at the detection point. Repeat surveys across multiple days and seasons to capture temporal variation in prey distribution. Use distance sampling statistical methods to convert raw detection data into density estimates that account for the declining probability of detecting animals at greater distances from the transect."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Analyze Kill Site Evidence",
+        "description": "Examining tiger kill sites provides direct evidence of dietary preferences and hunting success rates. When a kill site is discovered, approach cautiously to avoid disturbing a feeding tiger that may still be in the vicinity. Record the species, sex, and estimated age of the prey animal based on body size, antler development, and dental wear patterns. Note the location of bite wounds which reveal the killing technique used. Measure the proportion of the carcass consumed and document any caching behavior where tigers cover kills with vegetation to protect them from scavengers. Collect biological samples including hair, bone fragments, and blood for laboratory analysis to confirm species identification."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Study Prey Behavior Patterns",
+        "description": "Prey animal behavior is significantly influenced by tiger predation pressure, and these behavioral responses in turn affect tiger hunting success. Establish observation stations at water holes, meadow edges, and forest clearings to monitor prey vigilance behavior, group composition, and habitat use patterns. Record the proportion of time individual prey animals spend in alert posture versus feeding, resting, and social interaction. Map the spatial distribution of prey groups relative to known tiger activity areas to identify predation risk landscapes. Note any seasonal shifts in prey habitat selection that may correspond to changes in tiger hunting patterns or territorial movements."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Assess Habitat Quality",
+        "description": "Prey availability is directly linked to habitat quality, and assessing the resources that support prey populations is essential for long-term tiger conservation planning. Measure vegetation parameters including grass cover, browse availability, canopy density, and fruiting tree abundance that provide food resources for herbivorous prey species. Assess water availability by mapping all permanent and seasonal water sources within the study area and measuring their flow rates or volumes across seasons. Evaluate human disturbance levels including livestock grazing pressure, fire frequency, forest product extraction, and infrastructure development that may degrade prey habitat quality. Compare habitat conditions across different management zones to identify areas requiring restoration or enhanced protection."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Calculate Carrying Capacity",
+        "description": "Integrating prey density data with habitat quality assessments allows estimation of the tiger carrying capacity for the study area. Apply established ecological models that relate prey biomass density to sustainable tiger population density, using published coefficients specific to the prey species assemblage present. Account for factors that reduce effective prey availability including competition from other predators such as leopards and wild dogs, prey lost to disease and natural mortality, and areas rendered inaccessible by human activity or terrain barriers. Present carrying capacity estimates as a range reflecting uncertainty in input parameters and model assumptions. Compare the current tiger population with the estimated carrying capacity to assess whether the habitat is supporting its maximum potential tiger population or whether management interventions could increase prey bases."
+      }
+    ]
+  },
+  {
+    "id": "task_8",
+    "title": "Build a Conservation Report",
+    "subtitle": "Compile a professional conservation status assessment for tiger populations",
+    "imageName": "themeEight",
+    "iconName": "iconEight",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "title": "Gather Population Data",
+        "description": "A credible conservation report begins with comprehensive and current population data drawn from multiple independent sources. Compile the most recent tiger population estimates from national census reports, camera trap surveys, genetic sampling studies, and telemetry monitoring programs. Document the methodology used in each population estimate to allow readers to assess data quality and comparability across studies. Obtain historical population trend data spanning at least the past two decades to establish whether the population is increasing, stable, or declining. Include demographic breakdowns by sex, age class, and reproductive status where available, as these parameters are critical for population viability analysis."
+      },
+      {
+        "stepNumber": 2,
+        "title": "Assess Threat Levels",
+        "description": "Systematic threat assessment identifies and ranks the factors most likely to impact tiger population viability. Evaluate poaching pressure using indicators such as seizure records, patrol encounter rates, informant networks, and market surveillance data. Assess habitat loss and fragmentation using remote sensing analysis of forest cover change over time, combining satellite imagery with ground-truthed vegetation surveys. Quantify human-tiger conflict levels including livestock depredation incidents, human injury or fatality records, and retaliatory killings. Evaluate emerging threats including infrastructure development plans, mining concessions, climate change projections, and disease risks from domestic animals in buffer zones. Assign threat severity ratings using standardized criteria."
+      },
+      {
+        "stepNumber": 3,
+        "title": "Evaluate Protection Measures",
+        "description": "Review the effectiveness of existing conservation interventions to identify what is working and where improvements are needed. Analyze anti-poaching patrol data including patrol coverage, effort distribution, detection rates, and response times to reported incidents. Assess the management capacity of protected areas including staff numbers and training levels, equipment availability, communication infrastructure, and budget adequacy relative to management needs. Evaluate the effectiveness of community-based conservation programs by examining participation rates, benefit distribution, and community attitudes toward tiger conservation. Review the implementation status of landscape-level connectivity plans including wildlife corridor establishment and habitat restoration projects."
+      },
+      {
+        "stepNumber": 4,
+        "title": "Analyze Genetic Health",
+        "description": "Genetic diversity analysis provides crucial information about long-term population viability that demographic data alone cannot reveal. Compile available genetic data from non-invasive sampling programs that collect tiger DNA from scat, hair, and environmental samples. Assess genetic diversity metrics including heterozygosity levels, allelic richness, and effective population size estimates for each surveyed population. Evaluate connectivity between populations by analyzing gene flow patterns and identifying populations that are genetically isolated and at risk of inbreeding depression. Compare current genetic diversity levels with historical baselines where available to quantify the extent of genetic erosion over time. Identify priority populations requiring genetic rescue through managed connectivity or translocation interventions."
+      },
+      {
+        "stepNumber": 5,
+        "title": "Develop Recommendations",
+        "description": "Evidence-based recommendations translate scientific findings into actionable management strategies. Prioritize recommendations by urgency and expected impact, addressing immediate threats through enhanced anti-poaching operations and long-term sustainability through habitat connectivity restoration. Specify measurable targets and timelines for each recommendation, such as increasing patrol coverage to a minimum of 15 patrol days per 100 square kilometers per month within 12 months. Identify funding requirements and potential sources for each recommended action. Address policy gaps that undermine conservation effectiveness, such as inadequate penalties for wildlife crime or insufficient environmental impact assessment requirements for development projects near tiger habitats. Include capacity building recommendations for staff training, technology adoption, and institutional strengthening."
+      },
+      {
+        "stepNumber": 6,
+        "title": "Format and Submit Report",
+        "description": "Professional formatting and strategic distribution maximize the impact of your conservation report on policy and management decisions. Structure the report with an executive summary highlighting key findings and priority recommendations for decision makers who may not read the full document. Include detailed methodology sections that allow technical reviewers to assess data quality and analytical rigor. Present key results using clear visualizations including population trend graphs, threat distribution maps, and comparative tables. Append all raw data as supplementary materials for transparency and reproducibility. Submit the finalized report to relevant government wildlife agencies, international conservation organizations such as the Global Tiger Forum, and academic journals for peer review. Prepare condensed versions for media distribution and public awareness campaigns that communicate urgency without compromising sensitive location data."
+      }
+    ]
+  }
+]
